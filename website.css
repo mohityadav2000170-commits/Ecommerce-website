@@ -1,0 +1,43 @@
+div{
+    padding: 2px;
+}
+span i{
+    color: rgb(245, 162, 59);
+}
+.product-item{
+    max-width: 300px;
+    margin: auto;
+}
+.card-img-top{
+    height: 250px;
+}
+
+ .footer-item ul{
+    list-style-type: square;
+   
+}
+.footer-item{
+    color: rgb(186, 186, 186);
+}
+.breadcrumb{
+    background-color:  rgb(192, 192, 192);
+}
+.product-small img{
+    max-width: 120px;
+    padding: 10px;
+    
+}
+.close i{
+    font-size: 1.5rem;
+}
+.close i :hover{
+    color: rgb(158, 64, 64);
+}
+.login-box{
+    background-color: rgb(207, 205, 205);
+    border-radius: 10px;
+}
+.signup-box{
+    background-color: rgb(207, 205 , 205);
+    border-radius: 10px;
+}
